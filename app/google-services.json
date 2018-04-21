@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493554522052",
+    "firebase_url": "https://victorolivaresrec.firebaseio.com",
+    "project_id": "victorolivaresrec",
+    "storage_bucket": "victorolivaresrec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493554522052:android:2e297c86cc3af67d",
+        "android_client_info": {
+          "package_name": "com.example.victor.victorolivaresrec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493554522052-mfqhd7eofmaf5vkh1237rcqhg6hs6s0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.victor.victorolivaresrec",
+            "certificate_hash": "52c1ea260e9cd9a15f18a91da8faaec8a4bb80ac"
+          }
+        },
+        {
+          "client_id": "493554522052-ir7kgpdq5fuuni747do9ksdpm842m3r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrUqpxk9fNPe8KH6tLDi8XDfbiwcNfyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493554522052-ir7kgpdq5fuuni747do9ksdpm842m3r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
